@@ -1,0 +1,31 @@
+@charset "ISO-8859-1";
+
+*{
+	font-family: Helvetica;
+	margin: auto;
+}
+
+div{
+	display: grid;
+	left: 35%;
+}
+
+.error{
+	color: red;
+}
+
+h1 {
+	display: flex;
+	color: green;
+	margin: auto;
+	padding-top: 2rem;
+}
+
+.input{
+	width: 3rem;
+}
+
+td, th{
+	padding: 1rem;
+	padding-bottom: 0;
+}
